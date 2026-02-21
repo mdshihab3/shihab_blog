@@ -1,0 +1,21 @@
+
+.admin-table th {
+    background: #343a40;
+    color: white;
+}
+.admin-table td {
+    vertical-align: middle;
+}
+.status-badge {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+.status-published {
+    background: #d4edda;
+    color: #155724;
+}
+.status-draft {
+    background: #fff3cd;
+    color: #856404;
+}

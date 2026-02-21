@@ -1,0 +1,9 @@
+/* Dark theme – you can link it in header if needed */
+body.dark-theme {
+    background: #1a1a1a;
+    color: #f0f0f0;
+}
+.dark-theme .card {
+    background: #2d2d2d;
+    color: #f0f0f0;
+}

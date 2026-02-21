@@ -1,0 +1,19 @@
+
+body {
+    background: #f8f9fa;
+}
+.card {
+    border: none;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 25px rgba(0,0,0,0.1);
+}
+.badge {
+    font-weight: normal;
+}
+.post-content {
+    line-height: 1.8;
+}
